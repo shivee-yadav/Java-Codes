@@ -13,6 +13,7 @@ public class IO1 {
 		File f2=new File("d:\\cricket","abcd.txt");//subfile
 		f2.createNewFile();//creates a sub-file in the directory
 		System.out.println(f2.exists());
+		System.out.println("done");
 		
 		//isFile,isDir,list()
 		
