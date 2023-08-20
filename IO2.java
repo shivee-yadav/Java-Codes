@@ -11,6 +11,7 @@ public class IO2 {
 			// System.out.println(file);
 		}
 		System.out.println("No. of files in folder :" + count);
+		System.out.println();
 
 		// list of only files in the directory
 		for (String file : s) {
