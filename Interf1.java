@@ -7,7 +7,8 @@ public interface Interf1 {
 
 class Test20 implements Interf1{
 	
-	public void mymethod1() {//here writing public is compulsory 
+	public void mymethod1() {//here writing publi
+		//new
 		
 	}
 	public void mymethod2() {
