@@ -13,7 +13,7 @@ public class IfElse {
 			System.out.println("C grade");
 		}
 		else if(marks>=70&&marks<80) {
-			System.out.println("B grade");
+			System.out.println("B grade!");
 		}
 		else if(marks>=80&&marks<100) {
 			System.out.println("A grade");
