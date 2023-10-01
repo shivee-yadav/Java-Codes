@@ -1,7 +1,7 @@
 
 public class InheritanceC {
 	public InheritanceC() {
-		System.out.println("c");
+		System.out.println("C");
 	}
 	public void abc() {
 		System.out.println();
