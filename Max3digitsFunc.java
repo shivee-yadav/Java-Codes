@@ -47,7 +47,7 @@ public class Max3digitsFunc {
 		System.out.println(ob.max3digits(ob.digits(ob.split(num))));
 		}
 		else {
-			System.out.println("invalid input");
+			System.out.println("Invalid input");
 		}
 	}
 
