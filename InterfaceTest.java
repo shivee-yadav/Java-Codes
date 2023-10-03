@@ -18,7 +18,7 @@ public class InterfaceTest {
 		Circle c=new Circle();
 		Rectangle r= new Rectangle();
 		System.out.println("Area of Circle = "+c.compute(10, 0));
-		System.out.println("Area of Rectangle="+r.compute(10, 20));
+		System.out.println("Area of Rectangle ="+r.compute(10, 20));
 		
 	}
 
