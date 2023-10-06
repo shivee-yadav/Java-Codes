@@ -1,6 +1,6 @@
 class Chi{
 	Chi(){
-		System.out.println("child");
+		System.out.println("Child");
 	}
 }
 public class Polymorph extends Chi {
