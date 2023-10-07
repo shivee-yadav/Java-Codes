@@ -9,7 +9,7 @@ public class IO3 {
 		f.exists();
 		FileWriter fw = new FileWriter("d:\\My Folders\\Dear Diary.txt");
 		BufferedWriter in = new BufferedWriter(fw);
-		in.write("How you doing?");
+		in.write("How you doing??");
 		in.write("Stop imitating Joey all the time😒");
 		in.flush();
 		in.close();
