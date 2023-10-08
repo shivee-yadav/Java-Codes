@@ -31,7 +31,7 @@ public class Max3digit {
 	    	 }
 	    	 System.out.println();
 	    	 for(i=0;i<4;i++) {
-	    		 System.out.print(b[i]+" ");//printing the array containing 3 digit numbers
+	    		 System.out.print(b[i]+"  ");//printing the array containing 3 digit numbers
 	    	 }
 	    	 System.out.println();
 	
