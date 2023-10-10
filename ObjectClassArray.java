@@ -16,7 +16,7 @@ public class ObjectClassArray {
 		
 		int a[]= {10,20,30};
 		int b[]=a;//pass by reference
-		System.out.println(a+"    "+b);
+		System.out.println(a+"   "+b);
 		b[0]=100;
 		System.out.println(a[0]);//change in value of a cuz refernce was passed
 		
