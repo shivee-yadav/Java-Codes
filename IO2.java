@@ -8,7 +8,7 @@ public class IO2 {
 		String s[] = f.list();// list of files and directories in the directory
 		for (String file : s) {
 			count++;
-			// System.out.println(file);
+			System.out.println(file);
 		}
 		System.out.println("No. of files in folder :" + count);
 		System.out.println();
