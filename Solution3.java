@@ -3,7 +3,7 @@ import java.util.HashMap;
 public class Solution3 {
 	static boolean findsum(int arr[],int n)
     {
-        //Your code here
+        //Your code hereeee
         HashMap<Integer,Boolean> map=new HashMap<>();
         int sum=0;
         for(int i=0;i<n;i++){
