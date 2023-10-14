@@ -1,5 +1,5 @@
 class Parent100{
-	int x=888;
+	int x=88;
 	static int count=0;{
 		count++;
 	}
