@@ -9,7 +9,7 @@ public class IO1 {
 		
 		File f1=new File("d://cricket");
 		System.out.println(f1.exists());//false
-		f1.mkdir();//creates a directory
+		f1.mkdir();//creates a directoryyyy
 		System.out.println(f1.exists());//true
 		File f2=new File("d:\\cricket","abcd.txt");//subfile
 		f2.createNewFile();//creates a sub-file in the directory
