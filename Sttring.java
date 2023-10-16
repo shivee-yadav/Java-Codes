@@ -8,7 +8,7 @@ public class Sttring {
         System.out.println(t.hashCode());
         String z=s;
         System.out.println(z.hashCode());
-        z="abc";
+        z="abcd";
         System.out.println(z.hashCode());
         System.out.println(s.toUpperCase());
         System.out.println(s.toLowerCase());
